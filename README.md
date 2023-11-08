@@ -33,4 +33,53 @@ Notes
 
 3. Output images are square.
 
+Examples
+
+Input: one face in a image
+<table>
+  <tr>
+    <td>
+      <img src="demo_one.jpg" alt="Single Image" width="300" height="200">
+    </td>
+    <td>
+      <img src="/cropimgs_demo_one.jpg/1.png" alt="Image 1" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/2.png" alt="Image 2" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/3.png" alt="Image 3" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/4.png" alt="Image 4" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/5.png" alt="Image 5" width="100" height="100"><br>
+    </td>
+    <td>
+      <img src="/cropimgs_demo_one.jpg/6.png" alt="Image 6" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/7.png" alt="Image 7" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/8.png" alt="Image 8" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/9.png" alt="Image 9" width="100" height="100"><br>
+      <img src="/cropimgs_demo_one.jpg/10.png" alt="Image 10" width="100" height="100"><br>
+    </td>
+  </tr>
+</table>
+
+Input: mutiple faces in a image
+<table>
+  <tr>
+    <td>
+      <img src="demo_muti.jpg" alt="Single Image" width="300" height="200">
+    </td>
+    <td>
+      <img src="/cropimgs_demo_muti.jpg/1.png" alt="Image 1" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/2.png" alt="Image 2" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/3.png" alt="Image 3" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/4.png" alt="Image 4" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/5.png" alt="Image 5" width="100" height="100"><br>
+    </td>
+    <td>
+      <img src="/cropimgs_demo_muti.jpg/6.png" alt="Image 6" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/7.png" alt="Image 7" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/8.png" alt="Image 8" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/9.png" alt="Image 9" width="100" height="100"><br>
+      <img src="/cropimgs_demo_muti.jpg/10.png" alt="Image 10" width="100" height="100"><br>
+    </td>
+  </tr>
+</table>
+
+
 Author: Fierens
