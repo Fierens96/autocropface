@@ -1,5 +1,5 @@
 # autocropface
-Face auto cropping with yolo and opencv
+Face auto cropping with yolo and opencv, mutiple faces accepted!
 
 This module combines YOLO object detection and OpenCV image processing, aiming to quickly and automatically crop individuals in images and provide a positional offset feature. 
 The output images are square, and the aesthetics of cropping are subjective. 
